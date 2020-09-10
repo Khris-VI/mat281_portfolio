@@ -13,7 +13,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Khris-VI/mat281_portfolio_template/master?urlpath=lab)
 
-<img src="./images/dmat.png" alt="DMAT" align="right"/>
 * __Cristóbal Vivar__
 
 * __Repositorio Curso__:
